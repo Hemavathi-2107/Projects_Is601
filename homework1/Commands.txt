@@ -10,3 +10,7 @@ Example: cd /home/use
 3.pwd :
        Prints the current working directory, showing the full path of where you are in the filesystem.
 Example: pwd
+
+4.cp
+Copies files or directories from one location to another. Use -r for recursive copying of directories.
+Example: cp file1.txt /path/to/destination
