@@ -2,6 +2,11 @@ Commands:
 
 1. ls command : 
     The `ls` command lists files and directories in Unix/Linux and macOS. Common options include `ls -l` (detailed view), `ls -a` (show hidden files), and `ls -R` (recursive listing). In Windows, use `dir` in CMD or `Get-ChildItem` in PowerShell as alternatives. It helps navigate and manage files efficiently in the terminal. 🚀
-2.cd
-Changes the current directory to the specified path. It's used to navigate between directories.
+
+2.cd :
+      Changes the current directory to the specified path. It's used to navigate between directories.
 Example: cd /home/use    
+
+3.pwd :
+       Prints the current working directory, showing the full path of where you are in the filesystem.
+Example: pwd
