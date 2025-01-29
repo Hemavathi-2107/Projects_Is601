@@ -1,8 +1,8 @@
 Commands:
 
-1. ls command : 
-    The `ls` command lists files and directories in Unix/Linux and macOS. Common options include `ls -l` (detailed view), `ls -a` (show hidden files), and `ls -R` (recursive listing). In Windows, use `dir` in CMD or `Get-ChildItem` in PowerShell as alternatives. It helps navigate and manage files efficiently in the terminal. 🚀
-
+1. ls :
+      Lists the files and directories in the current directory. Use with options like -l for detailed information or -a to include hidden files.
+Example: ls -l
 2.cd :
       Changes the current directory to the specified path. It's used to navigate between directories.
 Example: cd /home/use    
@@ -14,3 +14,7 @@ Example: pwd
 4.cp
 Copies files or directories from one location to another. Use -r for recursive copying of directories.
 Example: cp file1.txt /path/to/destination
+
+5.rm
+Removes files or directories. Be cautious with -r for recursive removal and -f for forced removal, as this deletes content permanently.
+Example: rm file1.txt
