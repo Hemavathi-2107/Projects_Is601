@@ -1,4 +1,4 @@
-Commands:
+Linux Commands:
 
 1. ls :
       Lists the files and directories in the current directory. Use with options like -l for detailed information or -a to include hidden files.
